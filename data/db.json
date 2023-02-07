@@ -1,0 +1,12 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "ismatjonovx@gmail.com",
+      "password": "$2a$10$gmmBqcQPppZdUm.wa.IUX.fzqMFW26etbfPKGthKFINh3F.tYPiTu",
+      "first_name": "Abdulloh",
+      "last_name": "Botiraliyv",
+      "id": 1
+    }
+  ]
+}
